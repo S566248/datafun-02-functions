@@ -1,33 +1,33 @@
-2023-05-19 19:49:00,746 =============================================================
-2023-05-19 19:49:00,747 =============================================================
-2023-05-19 19:49:00,747 Today is 2023-05-19 at 07:49 PM
-2023-05-19 19:49:00,747 This file is running on: nt Windows 10
-2023-05-19 19:49:00,747 The Python version is: 3.11.3
-2023-05-19 19:49:00,748 The active conda environment is:  None
-2023-05-19 19:49:00,748 The active pip environment is:    None
-2023-05-19 19:49:00,748 The active environment path is:   C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1008.0_x64__qbz5n2kfra8p0
-2023-05-19 19:49:00,748 The current working directory is: C:\Users\Mikayla Rietgraf\datafun-02-functions\datafun-02-functions
-2023-05-19 19:49:00,749 This source file is in:           C:\Users\Mikayla Rietgraf\datafun-02-functions\datafun-02-functions
-2023-05-19 19:49:00,749 =============================================================
-2023-05-19 19:49:00,749 =============================================================
-2023-05-19 19:49:00,749 Created: NumericMovieSeries with name=Movie Scores Module 1, units=rating, and 6 data points: [75, 90, 56, 84, 79, 67]
-2023-05-19 19:49:00,749 Created: NumericMovieSeries with name=Movie Scores Module 2, units=rating, and 8 data points: [81, 43, 63, 72, 96, 32, 78, 60]
-2023-05-19 19:49:00,749 Created: NumericMovieSeries with name=Movie Scores Module 3, units=rating, and 10 data points: [70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
-2023-05-19 19:49:00,749 NumericMovieSeries with name=Movie Scores Module 1, units=rating, and 6 data points: [75, 90, 56, 84, 79, 67]
-2023-05-19 19:49:00,749 Count: 6
-2023-05-19 19:49:00,750 Sum: 451
-2023-05-19 19:49:00,750 Mean: 75.16666666666667
-2023-05-19 19:49:00,750 Median: 77.0
-2023-05-19 19:49:00,750 ------------------
-2023-05-19 19:49:00,750 NumericMovieSeries with name=Movie Scores Module 2, units=rating, and 8 data points: [81, 43, 63, 72, 96, 32, 78, 60]
-2023-05-19 19:49:00,750 Count: 8
-2023-05-19 19:49:00,750 Sum: 525
-2023-05-19 19:49:00,750 Mean: 65.625
-2023-05-19 19:49:00,751 Median: 67.5
-2023-05-19 19:49:00,751 ------------------
-2023-05-19 19:49:00,751 NumericMovieSeries with name=Movie Scores Module 3, units=rating, and 10 data points: [70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
-2023-05-19 19:49:00,751 Count: 10
-2023-05-19 19:49:00,751 Sum: 745
-2023-05-19 19:49:00,751 Mean: 74.5
-2023-05-19 19:49:00,751 Median: 74.5
-2023-05-19 19:49:00,751 ------------------
+2023-05-19 20:01:25,732 =============================================================
+2023-05-19 20:01:25,734 =============================================================
+2023-05-19 20:01:25,734 Today is 2023-05-19 at 08:01 PM
+2023-05-19 20:01:25,735 This file is running on: nt Windows 10
+2023-05-19 20:01:25,735 The Python version is: 3.11.3
+2023-05-19 20:01:25,735 The active conda environment is:  None
+2023-05-19 20:01:25,736 The active pip environment is:    None
+2023-05-19 20:01:25,736 The active environment path is:   C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1008.0_x64__qbz5n2kfra8p0
+2023-05-19 20:01:25,736 The current working directory is: C:\Users\Mikayla Rietgraf\datafun-02-functions\datafun-02-functions
+2023-05-19 20:01:25,736 This source file is in:           C:\Users\Mikayla Rietgraf\datafun-02-functions\datafun-02-functions
+2023-05-19 20:01:25,736 =============================================================
+2023-05-19 20:01:25,736 =============================================================
+2023-05-19 20:01:25,736 Created: NumericMovieSeries with name=Movie Scores Module 1, units=rating, and 6 data points: [75, 90, 56, 84, 79, 67]
+2023-05-19 20:01:25,737 Created: NumericMovieSeries with name=Movie Scores Module 2, units=rating, and 8 data points: [81, 43, 63, 72, 96, 32, 78, 60]
+2023-05-19 20:01:25,737 Created: NumericMovieSeries with name=Movie Scores Module 3, units=rating, and 10 data points: [70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
+2023-05-19 20:01:25,737 NumericMovieSeries with name=Movie Scores Module 1, units=rating, and 6 data points: [75, 90, 56, 84, 79, 67]
+2023-05-19 20:01:25,737 Count: 6
+2023-05-19 20:01:25,737 Sum: 451
+2023-05-19 20:01:25,737 Mean: 75.16666666666667
+2023-05-19 20:01:25,737 Median: 77.0
+2023-05-19 20:01:25,737 ------------------
+2023-05-19 20:01:25,738 NumericMovieSeries with name=Movie Scores Module 2, units=rating, and 8 data points: [81, 43, 63, 72, 96, 32, 78, 60]
+2023-05-19 20:01:25,738 Count: 8
+2023-05-19 20:01:25,738 Sum: 525
+2023-05-19 20:01:25,738 Mean: 65.625
+2023-05-19 20:01:25,738 Median: 67.5
+2023-05-19 20:01:25,738 ------------------
+2023-05-19 20:01:25,738 NumericMovieSeries with name=Movie Scores Module 3, units=rating, and 10 data points: [70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
+2023-05-19 20:01:25,738 Count: 10
+2023-05-19 20:01:25,738 Sum: 745
+2023-05-19 20:01:25,739 Mean: 74.5
+2023-05-19 20:01:25,739 Median: 74.5
+2023-05-19 20:01:25,739 ------------------
